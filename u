@@ -3480,7 +3480,7 @@ end
 local Vict = loadstring(game:HttpGet("https://raw.githubusercontent.com/WhoIsGenn/ui/refs/heads/main/victui.lua"))()
 
 local Window = Vict:Window({
-    Title = "Violence District | VD",
+    Title = "Victroia Hub | Violence District",
     Footer = " ",
     Color = Color3.fromRGB(0, 170, 255),
     ["Tab Width"] = 110,
