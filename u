@@ -2111,7 +2111,7 @@ local function Unload()
     print("[Victoria] Unloaded")
 end
 
-local VelarisUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/nhfudzfsrzggt/brigida/refs/heads/main/dist/main.lua", true))()
+local VelarisUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/nhfudzfsrzggt/brigida/refs/heads/main/dist/main.lua"))()
 
 -- ================================================================
 -- WINDOW
